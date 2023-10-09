@@ -18,8 +18,8 @@ Uma característica interessante é a capacidade de nomear seu próprio personag
 Além disso, o jogo apresenta um sistema de escolhas múltiplas que têm o potencial de impactar o desenrolar da história, proporcionando diferentes rotas narrativas. 
 A imersão na história é ampliada por efeitos sonoros e trilha sonora de fundo que criam uma atmosfera envolvente.
 
-Nota importante: Todas as imagens e sons utilizados neste projeto são livres para uso não comercial, tornando-o acessível e compartilhável com a comunidade de forma mais ampla.
-Este projeto é um hobby pessoal e não tem fins comerciais.
+Nota importante: Todas as imagens e sons utilizados neste projeto são livres para uso não comercial, tornando-o acessível e compartilhável com a comunidade de forma mais ampla. 
+Este projeto é um hobby pessoal e não foi lapidado, o que significa que erros ortográficos são possíveis, mas o foco está na criatividade e na diversão do desenvolvimento.
 
 Link do Projeto já funcional:
 
