@@ -27,3 +27,14 @@ Para Windows: https://drive.google.com/file/d/1wWuq9gb43jc2i-OzXDxTSRGFsJyQsF_v/
 
 
 Para Mac: https://drive.google.com/file/d/1m8olfKlI5E-hctblwRDKDhpt-1S8wfhr/view?usp=sharing
+
+
+Para executar o projeto, siga estas etapas:
+
+Faça o download do repositório e descompacte-o em seu computador.
+
+Abra a pasta "MorsAstrorum".
+
+Localize o arquivo executável do "MorsAstrorum".
+
+Inicie o executável para iniciar o jogo.
